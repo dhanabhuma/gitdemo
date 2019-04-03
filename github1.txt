@@ -1,0 +1,10 @@
+GIT - IT is distributed version controlling system.
+It has two interfaces
+	1. GIT Hub (using web brwoser https://github.com)
+	2. GIT Bash (you need to install GIT.exe in your laptop just like Ms office or any other software)
+
+GIT has two placeholders
+	1. Upstream (Server / actual)
+	2. Origin (Fork / local github)
+
+

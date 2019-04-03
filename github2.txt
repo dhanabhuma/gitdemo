@@ -1,0 +1,27 @@
+1. Dhana logged into GIT and Create a repository
+2. Copy Repository URI
+3. Open Eclipse and create any simple java project
+4. Right click on java project and select Team > Share Project
+5. Create a repository in your local laptop for above java project (by just clicking on Create Repository)
+6. Right click on the java Project and select Team > Commit Then you will go to Git Staging window
+7. Move files to Staged and add a comment
+8. Give your Author, Commentor (your git userid)
+9. Click on Commit and push.
+10. Go to GIT hub and refresh your URI (you can see now your Java project)
+
+Phase 2:
+Give collaborator access to somebody else
+1. Click on Settings on your URI
+2. Select Collaborator and search for user id (subbu) and give access
+3. now subbu should accept that invitation
+
+Phase 3:
+1. Subbu should create a fork
+2. Configure GIT project in his eclipse using Clone
+3. make changes in his eclipse to any one of java file and commit changes to GIT (subbu fork)
+
+Phase 4:
+1. Subbu should go github and create a New Pull Reqest to merge changes to Dhana's master branch.
+
+Phase 5:
+1. Dhana should get Pull in her eclipse to see subbu's changes.
